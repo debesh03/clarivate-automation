@@ -1,0 +1,24 @@
+[INFO ] 2020-07-22 17:08:32.121 [main] BaseUtil - Initializing winium driver
+[INFO ] 2020-07-22 17:08:33.425 [main] BaseUtil - Winium driver instantiated
+[INFO ] 2020-07-22 17:08:33.426 [main] BaseUtil - Calculator app launched
+[INFO ] 2020-07-22 17:08:33.482 [main] CalculaterPage - Entering number in calculator : 65575
+[INFO ] 2020-07-22 17:08:38.200 [main] BaseUtil - Number entered in calculator is : 65575
+[INFO ] 2020-07-22 17:08:38.741 [main] BaseUtil - Click action is performed on square root button
+[INFO ] 2020-07-22 17:08:39.284 [main] CalculaterPage - Click action performed on equal button
+[INFO ] 2020-07-22 17:08:39.304 [main] CalculaterPage - Calculated result is Display is 256.0761605460376
+[INFO ] 2020-07-22 17:08:39.304 [main] BaseUtil - Square root is Display is 256.0761605460376
+[INFO ] 2020-07-22 17:08:39.308 [main] CalculaterPage - Closing calculator
+[INFO ] 2020-07-22 17:08:39.396 [main] BaseUtil - Calculator closed successfully
+[INFO ] 2020-07-22 17:08:39.595 [main] Hooks - Winium driver closed
+[INFO ] 2020-07-22 17:08:39.615 [main] BaseUtil - Initializing browser : chrome
+[INFO ] 2020-07-22 17:08:45.532 [main] BaseUtil - Implicit wait applied on webdriver for 10 seconds
+[INFO ] 2020-07-22 17:08:45.532 [main] GoogleSearchSteps - Browser launced
+[INFO ] 2020-07-22 17:08:47.532 [main] GoogleSearchSteps - Navigated to url : https://www.google.com/
+[INFO ] 2020-07-22 17:08:47.534 [main] GoogleSearchPage - Entering text in searchbox : Clarivate Analytics
+[INFO ] 2020-07-22 17:08:47.739 [main] GoogleSearchPage - Submiting the search text
+[INFO ] 2020-07-22 17:08:50.162 [main] GoogleSearchSteps - Search Keyword Clarivate Analytics found 
+[INFO ] 2020-07-22 17:08:50.165 [main] SearchResultsPage - Waiting for element to load in serach result
+[INFO ] 2020-07-22 17:08:50.289 [main] SearchResultsPage - WebElement located successfully
+[INFO ] 2020-07-22 17:08:50.308 [main] SearchResultsPage - Fetching first result in google search result : [[ChromeDriver: chrome on WINDOWS (8818a47a11f9198aead6a26851304600)] -> css selector: div#result-stats]
+[INFO ] 2020-07-22 17:08:50.354 [main] GoogleSearchSteps - First search result found : clarivate.com
+[INFO ] 2020-07-22 17:08:51.244 [main] Hooks - Webdriver closed
